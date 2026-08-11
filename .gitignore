@@ -1,0 +1,17 @@
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+.env
+.env.*
+backend/.env
+frontend/.env
+logs/
+*.log
+npm-debug.log*
+.vite/
+dist/
+build/
+coverage/
+.DS_Store
+Thumbs.db
+backend/uploads/
